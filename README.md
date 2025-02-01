@@ -38,11 +38,7 @@ PREREQUISITES-
 
 Ensure you have the following installed:
 
-Python 3.8+
-
-Jupyter Notebook
-
-Required Python libraries (listed in requirements.txt)
+Python 3.8+,Jupyter Notebook,Required Python libraries (listed in requirements.txt)
 
 USAGE-
 
@@ -88,9 +84,7 @@ Decision Points: Chose LSTMs and transformers for contextual understanding, impl
 
 IMPLEMENTATION AND EFFECTIVENESS-
 
-The solution is easily deployable via APIs, making integration with social media platforms straightforward.
-
-Effectiveness is enhanced by continuous retraining with new data and user feedback loops.
+The solution is easily deployable via APIs, making integration with social media platforms straightforward.Effectiveness is enhanced by continuous retraining with new data and user feedback loops.
 
 SCALABILITY AND USABILITY
 
