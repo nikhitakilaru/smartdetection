@@ -33,7 +33,8 @@ Generative AI-based rewording for flagged comments
 API integration for seamless deployment
 
 INSTALLATION-
-Prerequisites-
+
+PREREQUISITES-
 
 Ensure you have the following installed:
 
@@ -43,7 +44,7 @@ Jupyter Notebook
 
 Required Python libraries (listed in requirements.txt)
 
-Usage-
+USAGE-
 
 Input text comments for analysis.
 
@@ -55,7 +56,7 @@ If toxicity is detected, the AI suggests rewording.
 
 The results are displayed with necessary recommendations.
 
-Model and Approach-
+MODEL AND APPROACH-
 
 Uses NLP-based techniques to detect toxic language.
 
@@ -65,7 +66,7 @@ Fine-tuned generative AI models for accurate classification.
 
 API integration for real-time comment filtering.
 
-Frameworks/Tools/Technologies Stack-
+FRAMEWORKS/TOOLS/TECHNOLOGIES STACK-
 
 Programming Language: Python
 
@@ -77,7 +78,7 @@ Database: SQLite/PostgreSQL (for storing processed data)
 
 Deployment: Flask/FastAPI, Docker, Cloud services (AWS/GCP)
 
-Assumptions, Constraints, and Solution Decision Points-
+ASSUMPTIONS,CONSTRAINTS-
 
 Assumptions: Model performance depends on high-quality labeled datasets, and toxicity varies across contexts and languages.
 
@@ -85,13 +86,13 @@ Constraints: Requires substantial computational resources for training; real-tim
 
 Decision Points: Chose LSTMs and transformers for contextual understanding, implemented generative AI for positive rewording.
 
-Implementation & Effectiveness-
+IMPLEMENTATION AND EFFECTIVENESS-
 
 The solution is easily deployable via APIs, making integration with social media platforms straightforward.
 
 Effectiveness is enhanced by continuous retraining with new data and user feedback loops.
 
-Scalability & Usability-
+SCALABILITY AND USABILITY
 
 Can be scaled for various languages and adapted to multiple digital platforms.
 
