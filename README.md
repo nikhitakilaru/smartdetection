@@ -32,14 +32,6 @@ Generative AI-based rewording for flagged comments
 
 API integration for seamless deployment
 
-INSTALLATION-
-
-PREREQUISITES-
-
-Ensure you have the following installed:
-
-Python 3.8+,Jupyter Notebook,Required Python libraries (listed in requirements.txt)
-
 USAGE-
 
 Input text comments for analysis.
